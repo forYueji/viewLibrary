@@ -81,7 +81,7 @@ install {
             project {
                 packaging 'aar'
                 //项目描述，随意填
-                name 'A Simple Network Request Library'
+                name 'View dynamic injection'
                 url siteUrl
                 licenses {
                     license {
